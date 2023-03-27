@@ -21,3 +21,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "DDS-Android"
 include ':playground'
+include ':dds-lint'
+include ':dds-foundation'
+include ':dds-util'
+include ':dds'
