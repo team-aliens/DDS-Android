@@ -1,0 +1,27 @@
+/*
+ * Designed and developed by Team Aliens, 2023
+ *
+ * Licensed under the MIT.
+ * Please see full license: https://github.com/team-aliens/DDS-Android/blob/develop/LICENSE
+ */
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "DDS-Android"
+include ':playground'
+include ':dds-lint'
+include ':dds-foundation'
+include ':dds-util'
+include ':dds'
