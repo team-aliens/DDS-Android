@@ -1,3 +1,10 @@
+/*
+ * Designed and developed by Team Aliens, 2023
+ *
+ * Licensed under the MIT.
+ * Please see full license: https://github.com/team-aliens/DDS-Android/blob/develop/LICENSE
+ */
+
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 plugins {
     id 'com.android.application' version '8.0.0-alpha08' apply false

@@ -1,3 +1,10 @@
+/*
+ * Designed and developed by Team Aliens, 2023
+ *
+ * Licensed under the MIT.
+ * Please see full license: https://github.com/team-aliens/DDS-Android/blob/develop/LICENSE
+ */
+
 package team.aliens.dds.ui.theme
 
 import android.app.Activity
